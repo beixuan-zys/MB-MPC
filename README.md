@@ -1,5 +1,5 @@
 # MB-MPC
-Model Uncertainty Tracking Control Method for Large-Scale Multi-Agent Based on Multi-Bernoulli Filter
+Model Uncertainty Tracking Control Method for Multi-Agent Systems Based on Multi-Bernoulli Filter
 
 *Scenario 1*
 
