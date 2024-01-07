@@ -8,6 +8,9 @@ Model Uncertainty Tracking Control Method for Multi-Agent Systems Based on Multi
 *Scenario 2*
 
 ![Scenario2](https://github.com/beixuan-zys/MB-MPC/assets/54428021/e6f75afb-7866-4fa5-b409-8b99d8faf4e2)
-<!-- ![Scenario3](https://github.com/beixuan-zys/MB-MPC/assets/54428021/3aaa3fb1-2e8d-4534-9cda-20169b470495)
+
+*Scenario 3*
+
+![Scenario3](https://github.com/beixuan-zys/MB-MPC/assets/54428021/3aaa3fb1-2e8d-4534-9cda-20169b470495)
 
 
